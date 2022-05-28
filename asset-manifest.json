@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/reacto-portfolium/static/css/main.5f1e54a2.css",
+    "main.js": "/reacto-portfolium/static/js/main.866c9d10.js",
+    "index.html": "/reacto-portfolium/index.html",
+    "main.5f1e54a2.css.map": "/reacto-portfolium/static/css/main.5f1e54a2.css.map",
+    "main.866c9d10.js.map": "/reacto-portfolium/static/js/main.866c9d10.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5f1e54a2.css",
+    "static/js/main.866c9d10.js"
+  ]
+}
